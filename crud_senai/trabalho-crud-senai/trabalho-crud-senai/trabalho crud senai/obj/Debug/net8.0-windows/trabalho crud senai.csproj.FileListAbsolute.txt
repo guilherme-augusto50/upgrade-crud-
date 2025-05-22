@@ -1,0 +1,77 @@
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\trabalho crud senai.exe
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\trabalho crud senai.deps.json
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\trabalho crud senai.runtimeconfig.json
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\trabalho crud senai.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\trabalho crud senai.pdb
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho_crud_senai.Login.resources
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho_crud_senai.Properties.Resources.resources
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.csproj.GenerateResource.cache
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.AssemblyInfoInputs.cache
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.AssemblyInfo.cs
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.sourcelink.json
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\refint\trabalho crud senai.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.pdb
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.genruntimeconfig.cache
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\ref\trabalho crud senai.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho_crud_senai.Cadastro.resources
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho_crud_senai.telaprincipal.resources
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.csproj.AssemblyReference.cache
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho.8CE745D5.Up2Date
+C:\Users\Aluno_Manha\source\repos\guilherme-augusto50\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho_crud_senai.principalF.resources
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\refint\trabalho crud senai.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.pdb
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho_crud_senai.Cadastro.resources
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho_crud_senai.Login.resources
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho_crud_senai.Properties.Resources.resources
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho_crud_senai.telaprincipal.resources
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.AssemblyInfo.cs
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.sourcelink.json
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\trabalho crud senai.exe
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\trabalho crud senai.deps.json
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\trabalho crud senai.runtimeconfig.json
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\trabalho crud senai.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\trabalho crud senai.pdb
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho.8CE745D5.Up2Date
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\trabalho crud senai.genruntimeconfig.cache
+C:\Users\pc\Desktop\trabalho-crud-senai\trabalho-crud-senai\trabalho crud senai\obj\Debug\net8.0-windows\ref\trabalho crud senai.dll
